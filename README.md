@@ -1,0 +1,1 @@
+# An-earthquake-query-system-based-on-hidden-Markov-models
